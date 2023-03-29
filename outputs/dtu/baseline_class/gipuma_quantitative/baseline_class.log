@@ -1,0 +1,137 @@
+[?1h=
+                                                                  < M A T L A B (R) >
+                                                        Copyright 1984-2022 The MathWorks, Inc.
+                                                   R2022b Update 4 (9.13.0.2166757) 64-bit (maci64)
+                                                                   January 11, 2023
+
+ 
+要开始，请键入 doc。
+有关产品信息，请访问 www.mathworks.com。
+ 
+UsedSets =
+     1     4     9    10    11    12    13    15    23    24    29    32    33    34    48    49    62    75    77   110   114   118
+/Users/bytedance/Desktop/cvpmvs/outputs/dtu/baseline_class/quantitative/mvsnet_Eval_1.mat
+acc
+    0.2453
+comp
+    0.1748
+/Users/bytedance/Desktop/cvpmvs/outputs/dtu/baseline_class/quantitative/mvsnet_Eval_4.mat
+acc
+    0.2569
+comp
+    0.3544
+/Users/bytedance/Desktop/cvpmvs/outputs/dtu/baseline_class/quantitative/mvsnet_Eval_9.mat
+acc
+    0.3308
+comp
+    0.2598
+/Users/bytedance/Desktop/cvpmvs/outputs/dtu/baseline_class/quantitative/mvsnet_Eval_10.mat
+acc
+    0.3014
+comp
+    0.1681
+/Users/bytedance/Desktop/cvpmvs/outputs/dtu/baseline_class/quantitative/mvsnet_Eval_11.mat
+acc
+    0.3604
+comp
+    0.3931
+/Users/bytedance/Desktop/cvpmvs/outputs/dtu/baseline_class/quantitative/mvsnet_Eval_12.mat
+acc
+    0.3153
+comp
+    0.1894
+/Users/bytedance/Desktop/cvpmvs/outputs/dtu/baseline_class/quantitative/mvsnet_Eval_13.mat
+acc
+    0.2871
+comp
+    0.2082
+/Users/bytedance/Desktop/cvpmvs/outputs/dtu/baseline_class/quantitative/mvsnet_Eval_15.mat
+acc
+    0.3552
+comp
+    0.2544
+/Users/bytedance/Desktop/cvpmvs/outputs/dtu/baseline_class/quantitative/mvsnet_Eval_23.mat
+acc
+    0.3749
+comp
+    0.2674
+/Users/bytedance/Desktop/cvpmvs/outputs/dtu/baseline_class/quantitative/mvsnet_Eval_24.mat
+acc
+    0.3328
+comp
+    0.3279
+/Users/bytedance/Desktop/cvpmvs/outputs/dtu/baseline_class/quantitative/mvsnet_Eval_29.mat
+acc
+    0.6527
+comp
+    0.4018
+/Users/bytedance/Desktop/cvpmvs/outputs/dtu/baseline_class/quantitative/mvsnet_Eval_32.mat
+acc
+    0.3690
+comp
+    0.2905
+/Users/bytedance/Desktop/cvpmvs/outputs/dtu/baseline_class/quantitative/mvsnet_Eval_33.mat
+acc
+    0.3607
+comp
+    0.4756
+/Users/bytedance/Desktop/cvpmvs/outputs/dtu/baseline_class/quantitative/mvsnet_Eval_34.mat
+acc
+    0.2534
+comp
+    0.1898
+/Users/bytedance/Desktop/cvpmvs/outputs/dtu/baseline_class/quantitative/mvsnet_Eval_48.mat
+acc
+    0.3774
+comp
+    0.4166
+/Users/bytedance/Desktop/cvpmvs/outputs/dtu/baseline_class/quantitative/mvsnet_Eval_49.mat
+acc
+    0.4516
+comp
+    0.5135
+/Users/bytedance/Desktop/cvpmvs/outputs/dtu/baseline_class/quantitative/mvsnet_Eval_62.mat
+acc
+    0.3422
+comp
+    0.5771
+/Users/bytedance/Desktop/cvpmvs/outputs/dtu/baseline_class/quantitative/mvsnet_Eval_75.mat
+acc
+    0.3868
+comp
+    0.2508
+/Users/bytedance/Desktop/cvpmvs/outputs/dtu/baseline_class/quantitative/mvsnet_Eval_77.mat
+acc
+    0.8685
+comp
+    0.3756
+/Users/bytedance/Desktop/cvpmvs/outputs/dtu/baseline_class/quantitative/mvsnet_Eval_110.mat
+acc
+    0.2910
+comp
+    0.2608
+/Users/bytedance/Desktop/cvpmvs/outputs/dtu/baseline_class/quantitative/mvsnet_Eval_114.mat
+acc
+    0.2098
+comp
+    0.1804
+/Users/bytedance/Desktop/cvpmvs/outputs/dtu/baseline_class/quantitative/mvsnet_Eval_118.mat
+acc
+    0.2332
+comp
+    0.3433
+        nStl: [2643309 3097920 2599152 2214705 2539262 1706174 2487545 2873293 3990087 3174233 3034049 2708232 1935045 3015402 2478975 1857277 ... ]
+       nData: [4316996 4774857 5039812 4456997 3222840 3196925 3592959 5587144 9443024 6297145 7657660 6132606 2938504 5512346 3903178 3913952 ... ]
+     MeanStl: [0.1748 0.3544 0.2598 0.1681 0.3931 0.1894 0.2082 0.2544 0.2674 0.3279 0.4018 0.2905 0.4756 0.1898 0.4166 0.5135 0.5771 0.2508 0.3756 ... ]
+    MeanData: [0.2453 0.2569 0.3308 0.3014 0.3604 0.3153 0.2871 0.3552 0.3749 0.3328 0.6527 0.3690 0.3607 0.2534 0.3774 0.4516 0.3422 0.3868 0.8685 ... ]
+      VarStl: [0.0120 1.2746 0.6430 0.0090 0.5772 0.1207 0.0574 0.2829 0.3076 1.6271 1.2741 0.6064 2.3920 0.1838 1.1529 3.1867 3.3264 0.7016 1.7248 ... ]
+     VarData: [0.0712 0.1108 0.1499 0.1033 0.2447 0.1954 0.1073 0.1909 0.2011 0.1706 0.7993 0.2078 0.8489 0.1197 0.2774 1.6952 0.1896 0.9968 4.3999 ... ]
+      MedStl: [0.1491 0.1560 0.1555 0.1461 0.1685 0.1407 0.1604 0.1609 0.1596 0.1569 0.1826 0.1533 0.1528 0.1411 0.1640 0.1601 0.1519 0.1434 0.1548 ... ]
+     MedData: [0.1926 0.1944 0.2269 0.2125 0.1970 0.1962 0.2010 0.2338 0.2552 0.2211 0.3330 0.2362 0.1883 0.1875 0.2177 0.2191 0.2156 0.2152 0.2926 ... ]
+mean acc
+    0.3617
+mean comp
+    0.3124
+totalStatName =
+    '/Users/bytedance/Desktop/cvpmvs/outputs/dtu/baseline_class/quantitative/TotalStat_mvsnet_Eval_.mat'
+[?1l>
